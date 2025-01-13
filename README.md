@@ -88,7 +88,13 @@ NOSSDAV'2022
 
 Transactions on Multimedia Computing Communications and Applications
 ```sh
-To Appear
+@article{li2024vertexshuffle,
+  title={VertexShuffle-Based Spherical Super-Resolution for 360-Degree Videos},
+  author={Li, Na and Liu, Yao},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2024},
+  publisher={ACM New York, NY}
+}
 ```
 
 ## License
