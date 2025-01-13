@@ -1,4 +1,4 @@
-# VertexShuffle-Based Spherical Super-Resolution for 360-Degree Videos
+# VertexShuffle-Based Spherical Super-Resolution for 360-Degree Videos [[paper]](https://dl.acm.org/doi/full/10.1145/3649315)
 
 ## Prerequisites
 
